@@ -1,4 +1,4 @@
-<img src = "giphy.gif" width = "235px" align = "right">
+<img src = "giphy.gif" width = "235px" align = "right" = align = "down">
 
  <h1> Welcome to my Github </h1>
 Curso de inglês básico | Curso de Teatro | Facinado em jogos <br>
