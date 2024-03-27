@@ -2,5 +2,5 @@
 
 # Welcome to my Github 💥
 Curso de inglês básico | Curso de Teatro | Facinado em jogos <br>
-Cursando Graduação de Engenharia de Software, no Parque Tecnológico Biopark.
+Cursando Graduação em Engenharia de Software, no Parque Tecnológico Biopark.
 
