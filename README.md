@@ -4,8 +4,8 @@
 Curso de inglês básico | Curso de Teatro | Facinado em jogos <br>
 Cursando Engenharia de Software, no Parque Tecnológico Biopark.
 
-Learning JavaScript | 
-Learning Java | 
-Learning Ruby | 
-Learning C | 
+Estudando JavaScript | 
+Estudando Java | 
+Estudando Ruby | 
+Estudando C | 
 
