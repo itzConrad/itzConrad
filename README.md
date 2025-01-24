@@ -4,7 +4,7 @@
 Facinado em jogos <br>
 Cursando Engenharia de Software, no Parque Tecnológico Biopark. <br>
 
-Desenvolvedor Frontend <br>
+**Desenvolvedor Frontend** <br>
 Java Script / HTML & CSS <br>
 
 **Interesses a parte** <br>
